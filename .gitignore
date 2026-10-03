@@ -1,0 +1,19 @@
+# Build outputs
+build/
+
+# Temporary test files
+*.tmp
+*.log
+
+# Editor temporary files
+*~
+*.swp
+*.swo
+
+# Runtime/debug output
+core
+core.*
+
+# Python cache
+__pycache__/
+*.pyc
